@@ -1,0 +1,7 @@
+[theme]
+
+primaryColor = "rgb(0, 123, 255)"  # Warna biru
+backgroundColor = "rgb(18, 18, 18)"  # Warna latar belakang hitam
+secondaryBackgroundColor = "rgb(33, 33, 33)"  # Warna latar belakang kedua (lebih gelap)
+textColor = "rgb(255, 255, 255)"  # Warna teks putih
+font = "sans serif"
