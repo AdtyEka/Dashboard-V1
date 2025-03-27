@@ -2,6 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import toml
+
+# Baca file config.toml
+config = toml.load("config.toml")
 
 # judul 
 st.markdown("<h1 style='text-align: center;'>Proyek Analisis Data - Bike</h1>", unsafe_allow_html=True)
