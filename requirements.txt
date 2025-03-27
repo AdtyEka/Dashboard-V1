@@ -2,6 +2,4 @@ matplotlib==3.9.2
 pandas==2.2.2
 seaborn==0.13.2
 streamlit==1.38.0
-git add config.toml
-git commit -m "Menambahkan config.toml"
-git push origin main
+
